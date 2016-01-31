@@ -13,15 +13,22 @@ Keep reading to know how to get it up and going.
 ########################################################################################################################
 First off, you need to head over to www.instagram.com/developer
 1) Click on Manage Clients
+
 2) Click on Register a New Client
-3) Fill out the details
+
+3) Fill out the details as instructed in here -> http://jelled.com/instagram/access-token
+
 4) Watch the 2 min video -> https://www.youtube.com/watch?v=LkuJtIcXR68
+
 5) Save the access token in config.txt file as
+
 access_token=newly generated token
 
 We need this access token to make requests to instagram.
 
 And that's it, download the script and config.txt.
+
 Edit config.txt
+
 Run the script, sit back and let the script do its work.
 
