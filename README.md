@@ -26,11 +26,11 @@ access_token=newly generated token
 
 We need this access token to make requests to instagram.
 
-And that's it, download the script and config.txt.
+6) And that's it, download the script and config.txt.
 
-Edit config.txt
+7) Edit config.txt
 
-Download & Install python -> https://www.python.org/downloads/
+8) Download & Install python -> https://www.python.org/downloads/
 
-Run the script, sit back and let the script do its work.
+9) Run the script, sit back and let the script do its work.
 
