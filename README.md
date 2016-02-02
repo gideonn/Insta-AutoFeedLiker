@@ -30,5 +30,7 @@ And that's it, download the script and config.txt.
 
 Edit config.txt
 
+Download & Install python -> https://www.python.org/downloads/
+
 Run the script, sit back and let the script do its work.
 
