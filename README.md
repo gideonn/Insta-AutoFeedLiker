@@ -16,7 +16,7 @@ First off, you need to head over to www.instagram.com/developer
 
 2) Click on Register a New Client
 
-3) Fill out the details as instructed in here -> http://jelled.com/instagram/access-token
+3) Fill out the details as instructed in here -> http://www.slickremix.com/docs/how-to-create-instagram-access-token/
 
 4) Watch the 2 min video -> https://www.youtube.com/watch?v=LkuJtIcXR68
 
