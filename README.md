@@ -12,6 +12,7 @@ Keep reading to know how to get it up and going.
 
 ########################################################################################################################
 First off, you need to head over to www.instagram.com/developer
+
 1) Click on Manage Clients
 
 2) Click on Register a New Client
