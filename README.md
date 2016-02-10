@@ -13,25 +13,26 @@ Keep reading to know how to get it up and going.
 ########################################################################################################################
 First off, you need to head over to www.instagram.com/developer
 
-1) Click on Manage Clients
+1) Read simple instructions here -> http://www.slickremix.com/docs/how-to-create-instagram-access-token/
+   In addition to that, click on "Edit" after you've saved a client. Goto security, and untick "Disable implicit OAuth".
+   We are doing that because we are going to implicitly call the APIs (without providing password everytime)
 
-2) Click on Register a New Client
+2) Watch the 2 min video, if step#1 is not clear -> https://www.youtube.com/watch?v=LkuJtIcXR68
 
-3) Fill out the details as instructed in here -> http://www.slickremix.com/docs/how-to-create-instagram-access-token/
+3) Save the access token in config.txt file as:-
 
-4) Watch the 2 min video -> https://www.youtube.com/watch?v=LkuJtIcXR68
+   access_token=newly generated token
 
-5) Save the access token in config.txt file as
+   for ex:
+   access_token=575199251.7in678i.g23atb436f6ba0fs8gi587f6a4esdcg3
 
-access_token=newly generated token
+   We need this access token to make requests to instagram.
 
-We need this access token to make requests to instagram.
+4) And that's it, download the executable instaAutoLike.exe
 
-6) And that's it, download the script and config.txt.
+5) Place config.txt in the same folder as executable
 
-7) Edit config.txt
+6) Double click the .exe file, sit back, grab a beer, and let the script do its work.
 
-8) Download & Install python -> https://www.python.org/downloads/
-
-9) Run the script, sit back and let the script do its work.
-
+The bot will autolike all your images in your feed.
+Enjoy! :)
